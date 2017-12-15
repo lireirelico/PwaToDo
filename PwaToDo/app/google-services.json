@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "704293880277",
+    "firebase_url": "https://pwatodo-550501.firebaseio.com",
+    "project_id": "pwatodo-550501",
+    "storage_bucket": "pwatodo-550501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704293880277:android:6ada50433bdcff32",
+        "android_client_info": {
+          "package_name": "com.example.eudo.pwatodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704293880277-mqqhe4c73tumram69g99h784njhf35ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eudo.pwatodo",
+            "certificate_hash": "7488aab942c7dd60e0aa2c81b7124bd694ed68f6"
+          }
+        },
+        {
+          "client_id": "704293880277-bb4524h4bnplabev4k9lsu901avaj5jk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "704293880277-p0lic2uhdpah6hepef9q4k9ana0b39e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdqjlUVDro2FmLFDw5IkDz8EQ4JItlzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704293880277-bb4524h4bnplabev4k9lsu901avaj5jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
